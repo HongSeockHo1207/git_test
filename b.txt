@@ -1,1 +1,2 @@
-printf("lalala~~")[D[D~[2~")
+printf("lalala~~")
+printf("lululu~~")
